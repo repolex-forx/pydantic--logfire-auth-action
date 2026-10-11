@@ -1,0 +1,11 @@
+{
+  "org": "pydantic",
+  "repo": "logfire-auth-action",
+  "versions": [
+    {
+      "commit": "5bc43913fd88758f7974d7c7ca857001e2b628d2",
+      "tag": "v1",
+      "parsed_at": "2026-10-11T19:28:48.261856+00:00"
+    }
+  ]
+}
