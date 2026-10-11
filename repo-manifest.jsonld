@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/pydantic/logfire-auth-action/commit/5bc43913fd88758f7974d7c7ca857001e2b628d2",
       "git:hexsha": "5bc43913fd88758f7974d7c7ca857001e2b628d2",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v1.1.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v1.1.0",
+      "repolex:parsedAt": "2026-10-11T19:28:48.261352+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pydantic/logfire-auth-action/commit/063db680140f993f5bd54b66fa2a6db129907001",
